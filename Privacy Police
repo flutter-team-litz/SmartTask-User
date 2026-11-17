@@ -1,0 +1,85 @@
+Privacy Policy – Smart Task Management
+1. Introduction
+This Privacy Policy explains how Smart Task Management (the “App”) collects, uses, stores and shares information. The App is a workplace task management system made up of two mobile applications:
+• Admin App – used by a company administrator to register a company, add team members and manage tasks.
+• User App – used by team members (employees) to log in, view tasks, assign tasks to colleagues and mark tasks as complete.
+By using the App you agree to the practices described in this policy. If you do not agree, please do not use the App.
+2. Information We Collect
+2.1 Information provided by company administrators
+• Company name and branch / location
+• Official email address and password (used to create and secure the account through Firebase Authentication)
+• Company logo or photo (optional)
+2.2 Information about team members (entered by the administrator)
+• Full name, work / designation and phone number
+• Official email address and login credentials (managed by Firebase Authentication)
+• Profile photo (optional; the administrator or the team member may upload it)
+• Company name, company identifier and account identifiers that link the team member to the company
+2.3 Task information
+• Task title, description, task type (one-day or daily), priority, deadline and status
+• Voice notes recorded inside the App and attached to a task
+• Completion notes written by a team member when a task is submitted
+• The identity (name, role and identifier) of the person who assigned the task and the person it is assigned to
+• Date and time stamps for creating, updating and completing tasks
+2.4 Device permissions and media
+• Camera – to take a profile photo or company logo.
+• Photos / gallery – to choose a profile photo or company logo.
+• Microphone – to record voice notes for tasks. Recording starts only when you tap the record button.
+You can allow or deny these permissions in your device settings. Denying a permission only disables the related feature.
+2.4.1 Speech recognition
+If a speech-to-text feature is used, the audio may be processed by the speech recognition service provided by your device’s operating system. We do not receive or store that audio unless you attach it to a task as a voice note.
+2.5 Automatically collected information
+The App uses Google Firebase services, which may automatically collect limited technical and usage information such as app-instance identifiers, device model, operating system version, app version, and app open / background events. This information is used to keep the App working and to understand general usage.
+3. How We Use Your Information
+We use the information to:
+• create and authenticate accounts and keep you logged in;
+• let administrators add, edit and manage team members;
+• let team members view, assign, complete and review tasks;
+• display names, roles and profile photos inside the App;
+• store and play back task voice notes and display profile images;
+• keep the App secure, prevent misuse and fix technical problems;
+• improve the performance and reliability of the App.
+We do not sell your personal information and we do not use it for advertising.
+4. Who Can See Your Information
+The App is designed for use inside a company. Visibility works as follows:
+• Company administrator – can see all team member profiles and all tasks created within that company.
+• Team members – can see their own profile and tasks, tasks they have assigned to others, and basic details of colleagues in the same company (name, role, email, phone number and profile photo) so that tasks can be assigned.
+• Other companies – cannot access your company’s data.
+Access is controlled by Firebase security rules and account authentication.
+5. Third-Party Services
+The App relies on the following third-party services, which process data on our behalf:
+• Firebase Authentication (Google) – account registration, login, email verification and password handling.
+• Cloud Firestore (Google) – storage of company, team member and task data.
+• Firebase Analytics (Google) – basic usage and diagnostics information.
+• Cloudinary – hosting of uploaded profile images, company logos and task voice notes. Files are stored on Cloudinary servers and are referenced in the App by a web link. Anyone who has the exact link to a file may be able to open it, so please do not upload sensitive images or audio.
+These providers have their own privacy policies, including:
+• Google / Firebase: https://policies.google.com/privacy
+• Cloudinary: https://cloudinary.com/privacy
+We do not share your information with any other third parties, except where required by law.
+6. Passwords and Security
+Passwords are handled by Firebase Authentication and are stored in a protected, non-readable form. We do not store passwords in plain text in our database. Data is transmitted over encrypted connections (HTTPS / TLS). We use authentication and access rules to limit who can read or change data.
+No method of storage or transmission is completely secure. We cannot guarantee absolute security, so please choose a strong password and keep it confidential.
+7. Data Stored on Your Device
+The App stores a small amount of information locally on your device, such as your login status and basic profile details, so that you stay signed in. The App may also cache data to work faster or with a weak connection. This local data is cleared when you log out of the App or uninstall it.
+8. Data Retention
+We keep company, team member and task information for as long as the account remains active, or as long as needed to provide the App. When an administrator removes a team member or a company account is deleted, the related data is removed from our active database within a reasonable period, except where we must keep it to meet legal obligations. Files already uploaded to Cloudinary are deleted when removal is requested as described in Section 9.
+9. Your Rights and Choices
+You may request to:
+• access the personal information we hold about you;
+• correct inaccurate information (administrators can edit team member details inside the App);
+• delete your account and associated data;
+• withdraw permissions (camera, gallery, microphone) at any time from device settings.
+To make a request, contact us at [Your Email Address]. Team members may also ask their company administrator, who controls the company account. We will respond within a reasonable time and may need to verify your identity first.
+10. Children’s Privacy
+The App is intended for use by working adults and is not directed at children under 18. We do not knowingly collect personal information from children. If you believe a child has provided information, please contact us and we will delete it.
+11. International Data Transfers
+Firebase and Cloudinary may store and process data on servers located outside your country. By using the App you understand that your information may be transferred to and processed in other countries, subject to the safeguards of those providers.
+12. Changes to This Policy
+We may update this Privacy Policy from time to time. When we do, we will change the “Last updated” date at the top of this page. Continued use of the App after an update means you accept the revised policy.
+13. Contact Us
+If you have questions or concerns about this Privacy Policy or your data, please contact:
+LITZ Tech
+No. 65/14, Srinagar, BR Puram, Peelamedu,
+Coimbatore - 641004,
+Tamilnadu, India.
+Phone: +919042090708
+Email: admin@litztech.in
